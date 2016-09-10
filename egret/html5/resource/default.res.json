@@ -1,0 +1,44 @@
+{
+	"groups":[
+	{
+		"keys":"bg_jpg,egret_icon_png,description_json,plane_png,zd,zd2,zd_json",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"bg_jpg",
+		"type":"image",
+		"url":"assets/bg1.jpg"
+	},
+	{
+		"name":"egret_icon_png",
+		"type":"image",
+		"url":"assets/egret_icon.png"
+	},
+	{
+		"name":"description_json",
+		"type":"json",
+		"url":"config/description.json"
+	}, {
+			"name":"plane_png",
+			"type":"image",
+			"url":"assets/plane.png"
+		},
+		{
+			"name":"zd",
+			"type":"image",
+			"url":"assets/zd1.png"
+		},
+		{
+			"name":"zd2",
+			"type":"image",
+			"url":"assets/zd2.png"
+		},
+		{
+			"name":"zd_json",
+			"type":"json",
+			"url":"config/zd_json.json"
+		}
+
+	]
+}
